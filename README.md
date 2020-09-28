@@ -1,3 +1,17 @@
+
+
+## 👏如何贡献
+
+**现阶段小源项目组的主要工作是整理编写知识库**，AI系统有微软的专业工程师负责,查看 [贡献指南][contribute]。
+
+[contribute]: https://github.com/kaiyuanshe/xiaoyuan/blob/master/CONTRIBUTING.md
+
+## 📄 License
+
+本仓库遵循 CC0 1.0 Universal，如 [LICENSE][LICENSE] 文件中所示。
+
+[LICENSE]: https://github.com/kaiyuanshe/xiaoyuan/blob/master/LICENSE
+=======
 # 小源—开源知识问答机器人 工作指南1.0
 
 刚进入项目的你，也许还有很多茫然的地方，这份工作指南带你快速进入项目~
