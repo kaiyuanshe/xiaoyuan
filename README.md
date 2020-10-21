@@ -52,16 +52,16 @@ A chatbot which is designed for open source community, able to answer open sourc
 4. 参与到知识库的编写工作中来。
 
 # 感谢以下所有为小源做出贡献的人(按照首字母排列)
-Alan
-Cynthia Xin
-Emily
-Heroza
-程刚-北邮研18
-胡琦
-惠世冀
-李思颖-微软
-梁尧
-郄楠
-宋永乐-微软pm
-万思乔
-朱忠凯
+Alan  
+Cynthia Xin  
+Emily  
+Heroza  
+程刚  
+胡琦  
+惠世冀  
+李思颖  
+梁尧  
+郄楠  
+宋永乐  
+万思乔  
+朱忠凯  
