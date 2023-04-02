@@ -1,0 +1,6 @@
+paddlepaddle
+fastdeploy-python
+paddlenlp
+datasets
+numpy
+loguru
